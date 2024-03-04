@@ -15,7 +15,6 @@ Me chamo Danillo Wesley e sou um desenvolvedor Back-end em formação.
 - 🎓 Estou no 4º semestre do Curso Superior de Tecnologia em Banco de Dados (Fatec - São José dos Campos/SP).
 - 📚 Estudando o Ecossistema Spring e SQL.
 - 🌱 Aprendendo JavaScript e React.
-- 🚀 Desenvolvendo uma API REST com Java, Spring e React.
 - 🎯 Buscando uma oportunidade no mercado de trabalho.
 - ⚡ Amo jogos eletrônicos, ouvir metal e ler One Piece. Apaixonado por Tolkien.
 
